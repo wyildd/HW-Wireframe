@@ -1,0 +1,70 @@
+* {
+	background: grey;
+	color: white;
+	box-sizing: border-box;
+	text-align: center;
+	margin-bottom: 20px;
+
+	
+}
+
+header {
+	background: white;
+	color: grey;
+	}
+
+aside {
+	background: white;
+	color: grey;
+	overflow: auto;
+	width: 45%;
+	padding: 80px;
+	float: left;
+	
+}
+
+#subs {
+	background: white;
+	color: grey;
+	width: 33%;
+	border: 1px solid #eee;
+	width: auto;
+	margin: 10px;
+
+}
+.line {
+	background: white;
+	color: grey;
+	padding: 20px;
+	margin-bottom: 20px;
+	width: auto;
+
+
+}
+
+section {
+	background: white;
+	color: grey;
+	width: 45%;
+	overflow: auto;
+	clear: both;
+	margin-right: 20px;
+	float: left;
+
+}
+article {
+	color: white;
+	width: auto;
+	border: 1px solid #eee;
+	margin: 10px;
+
+}
+p {
+	background: white;
+	color: grey;
+	width: 33%;
+	border: 1px solid #eee;
+	width: auto;
+	margin: 10px;
+
+}
